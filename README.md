@@ -84,7 +84,7 @@ We're always open to new projects, partnerships, and conversations. Whether you 
 
 <div align="center">
 
-📧 **Email:** [varxtech.ug@gmail.com](mailto:varxtech.ug@gmail.com)
+**Email:** [varxtech.ug@gmail.com](mailto:varxtech.ug@gmail.com)
 
 ---
 
