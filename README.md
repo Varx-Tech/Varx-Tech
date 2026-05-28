@@ -66,7 +66,7 @@ Whether you're a startup looking to establish your digital presence or an enterp
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Whether you're a startup looking to establish your digital presence or an enterp
 
 ---
 
-## 🤝 Let's Work Together
+## Let's Work Together
 
 We're always open to new projects, partnerships, and conversations. Whether you have a product idea, a challenge to solve, or simply want to explore what's possible — reach out.
 
