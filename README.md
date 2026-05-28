@@ -1,19 +1,19 @@
 <div align="center">
 
-# 🚀 Varx Tech
+# Varx Tech
 
 **Innovating. Building. Transforming.**
 
 We are a full-service technology company delivering cutting-edge digital solutions to businesses and organisations — from web development and AI-powered systems to IT consultancy and creative design.
 
-[![Website](https://img.shields.io/badge/Website-varxtech.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Varx-Tech)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssekitoolekopeterclaver@gmail.com)
+[![Website](https://img.shields.io/badge/Website-varxtech.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://varxtech.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varxtech.ug.com)
 
 </div>
 
 ---
 
-## 🏢 About Us
+## VarxTech
 
 **Varx Tech** is a technology-driven company committed to empowering businesses through innovative digital solutions. We combine technical expertise with creative thinking to deliver systems that are efficient, scalable, and future-ready.
 
@@ -21,19 +21,19 @@ Whether you're a startup looking to establish your digital presence or an enterp
 
 ---
 
-## 💼 What We Do
+## What We Do
 
 | Service | Description |
 |---|---|
-| 🌐 **Websites & Hosting** | Professional websites and reliable hosting solutions tailored to your brand |
-| 📱 **Application Development** | Custom web and mobile applications built for performance and scale |
-| ⚙️ **Customised Systems** | Bespoke software systems designed around your specific business needs |
-| 🤖 **Business Automation** | Smart workflow automation to reduce manual effort and boost productivity |
-| 🧠 **AI-Powered Systems** | Intelligent systems leveraging the latest in machine learning and AI |
-| 🔍 **IT Consultancy & Research** | Strategic technology guidance and in-depth research to inform decisions |
-| 💡 **Innovation Support** | Helping businesses ideate, prototype, and launch new tech solutions |
-| 🎨 **Graphics & Design** | Creative design services for branding, UI/UX, and digital assets |
-| 🛠️ **Systems Management & Maintenance** | Ongoing support, monitoring, and maintenance of your tech infrastructure |
+|  **Websites & Hosting** | Professional websites and reliable hosting solutions tailored to your brand |
+|  **Application Development** | Custom web and mobile applications built for performance and scale |
+|  **Customised Systems** | Bespoke software systems designed around your specific business needs |
+|  **Business Automation** | Smart workflow automation to reduce manual effort and boost productivity |
+|  **AI-Powered Systems** | Intelligent systems leveraging the latest in machine learning and AI |
+|  **IT Consultancy & Research** | Strategic technology guidance and in-depth research to inform decisions |
+|  **Innovation Support** | Helping businesses ideate, prototype, and launch new tech solutions |
+|  **Graphics & Design** | Creative design services for branding, UI/UX, and digital assets |
+|  **Systems Management & Maintenance** | Ongoing support, monitoring, and maintenance of your tech infrastructure |
 
 ---
 
